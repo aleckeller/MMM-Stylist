@@ -1,22 +1,14 @@
 /*
  *
- * {{MODULE_NAME}}
+ * MMM-Stylist
  *
- * {{AUTHOR_NAME}}
+ * Alec Keller
  * {{LICENSE}} Licensed.
  *
- * Custom here your css module
+ * css module
  *
  */
- body {
- 	background-color: lightblue;
- }
-
- h1 {
- 	color: white;
- }
-
- p {
- 	font-family: verdana;
- 	font-size: 20px;
+ .outfit {
+ 	width: 50%;               /* width of picture */
+  	height: 50%;              /* height of picture */
  }
